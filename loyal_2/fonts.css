@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('../fonts/Gotham_Pro/gothampro_medium.ttf');
+
+}
+
+@font-face {
+    font-family: 'Gotham Pro3';
+    src: url('../fonts/Gotham_Pro/gothampro.ttf');
+
+}
+
+@font-face {
+    font-family: 'Gotham Pro2';
+    src: url('../fonts/Gotham_Pro/gothampro_light.ttf');
+
+}
+
+@font-face {
+    font-family: 'Stolzl';
+    src: url('../fonts/Stolzl/stolzl_bold.otf');
+
+}
+
+@font-face {
+    font-family: 'stolzl_book';
+    src: url('../fonts/Stolzl/stolzl_book.otf');
+
+}
+
+.navigation__link {
+    font-family: 'Gotham Pro2';
+}
+
+.button {
+    font-family: 'Gotham Pro';
+
+}
+
+.btm {
+    font-family: 'Gotham Pro';
+}
+
+.gy {
+    font-family: 'Gotham Pro';
+}
+
+.gyww {
+    font-family: 'Gotham Pro';
+}
+
+.kux {
+    font-family: 'Gotham Pro';
+
+}
+
+.bank {
+    font-family: 'Stolzl';
+}
+
+.txt {
+    font-family: 'stolzl_book';
+}
+
+.image_txt {
+    font-family: 'Gotham Pro';
+
+}
+
+.card_contact {
+    font-family: 'Gotham Pro';
+
+}
+
+.menu {
+    font-family: 'Gotham Pro';
+}
+
+.font {
+    font-family: 'Gotham Pro3';
+}
+
+.gthm2 {
+    font-family: 'Gotham Pro2';
+
+}

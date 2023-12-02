@@ -1,0 +1,151 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+body {
+    background-color: white;
+}
+
+.color {
+    background-color: #EEEFF1;
+
+}
+
+.header {
+    padding: 30px 0;
+
+    
+}
+
+.header__row {
+    align-items: center;
+}
+
+.box {
+    text-align: right;
+}
+
+
+.navigation__list {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: flex-end;
+    
+    
+
+
+}
+
+.right {
+    justify-content: space-between;
+}
+
+.navigation {
+    text-align: right;
+    display: flex;
+}
+
+.padding_btm {
+    padding-bottom: 140px;
+    
+}
+
+
+
+
+.navigation__link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: .3s;
+    padding: 5px 0;
+    
+}
+
+
+.navigation__link:hover {
+    border-bottom: 2px solid rgb(46, 46, 46);
+}
+    
+    
+
+.btm_round {
+    cursor: pointer;
+    width: 208px;
+    height: 56px;
+}
+
+.btm:hover{
+    background: none;
+    color: #000000;
+    transition: .2s;
+
+}
+
+.btm {
+    cursor: pointer;
+    width: 208px;
+    height: 56px;
+    /* font-weight: bold; */
+    background-color: black;
+    color: white;
+    border-radius: 63px;
+    text-transform: uppercase;
+    transition: .2s;
+
+
+}
+
+.buttons {
+    display: flex;
+    padding-left: 40px;
+    gap: 20px;
+}
+
+.radius_btm {
+    width: 56px;
+    height: 56px;
+
+    border-radius: 50%;
+}
+
+.title {
+    font-size: 150px;
+    
+    color: black;
+}
+
+.url {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 30px;
+    border-bottom: 3px solid black;
+    
+}
+
+.crest {
+    display: flex;
+}
+
+.description {
+    font-size: 24px;
+    color: #64646A;
+}
+
+.span_e::after{
+    content: '';
+    width: 73px;
+    display: inline-block;
+    margin-left: 20px;
+    height: 56px;
+    background: url(../header_pics/crest.png);
+}
+.span_e {
+    position: relative;
+}

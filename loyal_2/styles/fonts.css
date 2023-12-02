@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'Extra Bold';
+    src: url('../fonts/albertusextrabold_regular.ttf');
+
+}
+
+@font-face {
+    font-family: 'Medium';
+    src: url('..//fonts/6311-font.ttf');
+
+}
+
+body {
+    /* font-family: 'Extra Bold'; */
+}
+
+
+.title {
+    font-family: 'Extra Bold';
+}
+
+.navigation__link {
+    font-family: 'Medium';
+}
+
+.description {
+    font-family: 'Medium';
+}
+
+.btm {
+    font-family: 'Medium';
+}
+
+.center_text {
+    font-family: 'Extra Bold';
+
+}
+
+.under_text {
+    font-family: 'Medium';
+
+}
+
+.main_card_text {
+    font-family: 'Extra Bold';
+
+}
+
+.second_card_text {
+    font-family: 'Medium';
+
+}
+
+.promo_title {
+    font-family: 'Extra Bold';
+
+}
+
+.promo_title_small {
+    font-family: 'Medium';
+
+}
+
+.shop_card_text_mini {
+    font-family: 'Medium';
+
+}
+
+.main_shop_text {
+    font-family: 'Extra Bold';
+
+}
+
+.shop_center_text {
+    font-family: 'Medium';
+
+}
+
+.afisha_small_text {
+    font-family: 'Medium';
+
+}
+
+.share_h {
+    font-family: 'Extra Bold';
+}
+
+.foot_text {
+    font-family: 'Medium';
+
+}
+
+.foot_text_sec {
+    font-family: 'Medium';
+
+}
+
+.foot_h1 {
+    font-family: 'Extra Bold';
+
+}
+
+.find_us_link {
+    font-family: 'Extra Bold';
+
+}
+
+.footer_second_text {
+    font-family: 'Extra Bold';
+
+}
+
+.footer_smal_text {
+    font-family: 'Medium';
+
+}
+
+.copy {
+    font-family: 'Medium';
+
+}

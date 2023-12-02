@@ -1,0 +1,25 @@
+.promo {
+    padding-top: 190px;
+}
+
+.promo_title {
+    font-size: 64px;
+}
+
+.promo_text {
+    margin-left: 80px;
+
+}
+
+
+.promo_title_small {
+    font-size: 24px;
+    color: #64646A;
+    padding-bottom: 20px;
+}
+
+.second {
+    width: 140px;
+    font-size: 13px;
+    height: 50px;
+}
