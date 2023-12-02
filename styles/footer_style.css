@@ -47,6 +47,8 @@
 .footer_smal_text {
     font-size: 30px;
     color: #64646A;
+    text-decoration: none;
+    margin-top: 26px;
 }
 .email {
     display: flex;
