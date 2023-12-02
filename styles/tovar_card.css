@@ -1,0 +1,65 @@
+.center_text {
+    font-size: 64px;
+    align-items: center;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.under_text {
+    font-size: 24px;
+    text-align: center;
+    color: #64646A;
+
+}
+
+.marg {
+    margin-bottom: 90px;
+}
+
+.card {
+    width: 393px;
+    box-shadow: -10px 10px 20px -10px #64646a2f;
+    position: relative;
+
+    height: 540px;
+    background-color: white;
+    border-radius: 24px;
+
+}
+
+.main_card_text {
+    font-size: 36px;
+    padding: 40px 40px 0px 40px;
+    color: black;
+}
+
+.second_card_text {
+    font-size: 24px;
+    color: #64646A;
+    padding: 0px 40px 0px 40px;
+
+
+}
+
+.card_buttom {
+    display: flex;
+    justify-content: center;
+    
+}
+.image_card {
+    padding-top: 55px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.shadow_cup {
+    position: absolute;
+    width: 520px;
+
+}
+
+
+
+
+
