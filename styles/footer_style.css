@@ -93,10 +93,17 @@
 }
 
 input[type="email"]::placeholder {
-    padding-left: 16px;
+    padding-left: 3px;
 
 }
 
 .email_link {
     text-decoration: none;
+}
+
+
+
+form input {
+	padding-left: 30px;
+    
 }
