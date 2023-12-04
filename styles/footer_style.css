@@ -90,4 +90,9 @@
     color: #64646A;
 }
 
+input[type="email"]::placeholder {
+    padding-left: 16px;
+
+}
+
 
