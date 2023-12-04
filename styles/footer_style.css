@@ -50,6 +50,7 @@
     text-decoration: none;
     margin-top: 26px;
 }
+
 .email {
     display: flex;
 }
@@ -62,6 +63,7 @@
 .phone_icon {
     margin-bottom: -50px;
 }
+
 .phone_dec {
     text-decoration: none;
     margin-top: 26px;
@@ -95,4 +97,6 @@ input[type="email"]::placeholder {
 
 }
 
-
+.email_link {
+    text-decoration: none;
+}
